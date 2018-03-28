@@ -1,0 +1,12 @@
+
+1. INPUT AT  - C:\\input.txt
+2. OUTPUT AT - C:\\output.txt (CREATE IT BEFORE RUNNING THE PROGRAM!!!)
+3. PLEASE CREATE BOTH OF THE FILES! 
+4. In the INPUT- Please Recieve 3rd value AS INT
+5. YOU SHOULD RUN IT WITH 3 PROCCESSES AND ABOVE (AS REQUESTED)
+
+
+This project written in VISUAL STUDIO 2017. If you open it with Visual Studio 2015 You should:
+1. Right click on the project in the Solution Explorer.
+2. Press "Retarget Projects"
+3. Choose 8.1 and click OK.

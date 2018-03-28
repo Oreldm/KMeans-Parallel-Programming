@@ -1,0 +1,23 @@
+﻿  main.cpp
+c:\users\h1z1\desktop\project\parallel_kmeans_204739825\parallel_kmeans_204739825\main.cpp(81): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\h1z1\desktop\project\parallel_kmeans_204739825\parallel_kmeans_204739825\main.cpp(251): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: see declaration of 'fopen'
+c:\users\h1z1\desktop\project\parallel_kmeans_204739825\parallel_kmeans_204739825\main.cpp(276): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\h1z1\desktop\project\parallel_kmeans_204739825\parallel_kmeans_204739825\main.cpp(288): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\h1z1\desktop\project\parallel_kmeans_204739825\parallel_kmeans_204739825\main.cpp(294): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\h1z1\desktop\project\parallel_kmeans_204739825\parallel_kmeans_204739825\main.cpp(297): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: see declaration of 'fscanf'
+c:\users\h1z1\desktop\project\parallel_kmeans_204739825\parallel_kmeans_204739825\main.cpp(332): warning C4101: 'clusterIndexPointer': unreferenced local variable
+c:\users\h1z1\desktop\project\parallel_kmeans_204739825\parallel_kmeans_204739825\main.cpp(361): warning C4101: 'distance': unreferenced local variable
+c:\users\h1z1\desktop\project\parallel_kmeans_204739825\parallel_kmeans_204739825\main.cpp(375): warning C4101: 'ompThreadId': unreferenced local variable
+c:\users\h1z1\desktop\project\parallel_kmeans_204739825\parallel_kmeans_204739825\main.cpp(376): warning C4101: 'step': unreferenced local variable
+  Parallel_kMeans_204739825.vcxproj -> C:\Users\h1z1\Desktop\project\Parallel_kMeans_204739825\x64\Debug\Parallel_kMeans_204739825.exe
+  Parallel_kMeans_204739825.vcxproj -> C:\Users\h1z1\Desktop\project\Parallel_kMeans_204739825\x64\Debug\Parallel_kMeans_204739825.pdb (Full PDB)
+  copy "C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart*.dll" "C:\Users\h1z1\Desktop\project\Parallel_kMeans_204739825\x64\Debug\"
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart32_80.dll
+  C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v8.0\bin\cudart64_80.dll
+          2 file(s) copied.
